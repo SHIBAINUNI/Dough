@@ -32,7 +32,7 @@ For steps on local deployment, development, and code contribution, please see [C
 
 ## Accessing Doughnutswap V2
 
-The Uniswap Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Uniswap protocol V2.
+The Doughnutswap Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Uniswap protocol V2.
 
 - Swap on Uniswap V2: https://app.uniswap.org/#/swap?use=v2
 - View V2 liquidity: https://app.uniswap.org/#/pool/v2

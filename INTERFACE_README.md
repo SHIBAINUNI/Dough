@@ -1,24 +1,24 @@
-# Uniswap Interface
+# Doughnutswap Interface
 
-An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
+An open source interface for Doughnutswap -- a protocol for decentralized exchange of Ethereum based tokens.
 
-- Website: [uniswap.org](https://uniswap.org/)
-- Interface: [app.uniswap.org](https://app.uniswap.org)
-- Docs: [uniswap.org/docs/](https://docs.uniswap.org/)
-- Twitter: [@Uniswap](https://twitter.com/Uniswap)
-- Reddit: [/r/Uniswap](https://www.reddit.com/r/Uniswap/)
-- Email: [contact@uniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/FCfyBSbCU5)
+- Website: [doughnutswap.shop](https://doughnutswap.shop/)
+- Interface: [app.doughnutswap.shop](https://app.doughnutswap.shop/)
+- Docs: [doughnutswap.shop/docs/](https://docs.doughnutswap.shop)
+- Twitter: [@Dough](https://twitter.com/doughnutswap)
+- Reddit: [/r/Doughnutswap](https://www.reddit.com/r/doughnutswap/)
+- Email: [contact@doughnutswap.shop](mailto:contact@doughnutswap.shop)
+- Discord: [Doughnutswap](https://discord.gg/F7ejrjf)
 - Whitepapers:
   - [V1](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
-  - [V2](https://uniswap.org/whitepaper.pdf)
-  - [V3](https://uniswap.org/whitepaper-v3.pdf)
+  - [V2](https://doughnutswap.shop/whitepaper.pdf)
+  - [V3](https://doughnutswap.shop/whitepaper-v3.pdf)
 
-## Accessing the Uniswap Interface
+## Accessing the Doughnutswap Interface
 
-To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
-or visit [app.uniswap.org](https://app.uniswap.org).
+To access the Doughnutswap Interface, use an IPFS gateway link from the
+[latest release]
+or visit [app.doughnutswap.shop](https://app.doughnutswap.shop).
 
 ## Unsupported tokens
 
@@ -30,7 +30,7 @@ You can block an entire list of tokens by passing in a tokenlist like [here](./s
 
 For steps on local deployment, development, and code contribution, please see [CONTRIBUTING](./CONTRIBUTING.md).
 
-## Accessing Uniswap V2
+## Accessing Doughnutswap V2
 
 The Uniswap Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Uniswap protocol V2.
 
